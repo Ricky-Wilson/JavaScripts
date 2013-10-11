@@ -1,4 +1,6 @@
 JavaScripts
 ===========
 
-Javascripts
+My collection of javascript scripts
+
+
